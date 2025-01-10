@@ -1,5 +1,28 @@
 # PROLOG (Practica 8)
 
+## Índice
+
+1. [Ejercicio 1](#ejercicio-1)  
+2. [Ejercicio 2](#ejercicio-2)  
+   - [E2 Consulta 1](#e2-consulta-1)  
+   - [E2 Consulta 2](#e2-consulta-2)  
+   - [E2 Consulta 3](#e2-consulta-3)  
+   - [E2 Consulta 4](#e2-consulta-4)  
+   - [E2 Consulta 5](#e2-consulta-5)  
+   - [Efecto del subrayado](#efecto-del-subrayado-_)  
+3. [Ejercicio 3](#ejercicio-3)  
+   - [E3 Consulta 1](#e3-consulta-1)  
+   - [E3 Consulta 2](#e3-consulta-2)  
+4. [Ejercicio 4](#ejercicio-4)  
+5. [Ejercicio 5](#ejercicio-5)  
+6. [Ejercicio 6](#ejercicio-6)  
+7. [Ejercicio 7](#ejercicio-7)  
+8. [Ejercicio 8](#ejercicio-8)  
+9. [Ejercicio 9](#ejercicio-9)  
+10. [Ejercicio 10](#ejercicio-10)  
+11. [Ejercicio 11](#ejercicio-11)  
+
+
 ## Ejercicio 1
 
 Edita un programa Prolog e introduce los siguientes hechos
